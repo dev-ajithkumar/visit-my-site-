@@ -1,0 +1,3 @@
+.rotated {
+  transform: rotate(90deg); /* Rotate the element by 45 degrees */
+}
