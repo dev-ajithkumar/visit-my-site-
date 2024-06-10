@@ -1,7 +1,7 @@
 import { Link } from "react-router-dom";
 
 function HeaderItems({ isOpen, isMobile }) {
-  const resume = `https://drive.google.com/file/d/1rC41lVNTWn5km49VhhCWNx13Yz46Oi84/view?usp=sharing`;
+  const resume = `https://drive.google.com/file/d/1c6cSnRYrgsHlt5GxXXHs5JkhaollaDru/view?usp=sharing`;
   return (
     <ul
       className={`${isMobile && isOpen ? "block" : "hidden"} ${
